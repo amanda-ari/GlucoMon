@@ -7,4 +7,4 @@ EasyEDA (schematic + PCB layout)
 Files
 Schematic screenshots
 PCB layout screenshots
-Gerber files **
+Gerber files
