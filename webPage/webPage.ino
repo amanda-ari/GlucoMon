@@ -5,8 +5,8 @@
 #include "MAX30105.h"
 
 // --- Wi-Fi Credentials ---
-const char* ssid     = "Hydra";
-const char* password = "Zero2Hero";
+const char* ssid     = "wifi name";
+const char* password = "wifi pw";
 
 MAX30105 particleSensor;
 AsyncWebServer server(80);
